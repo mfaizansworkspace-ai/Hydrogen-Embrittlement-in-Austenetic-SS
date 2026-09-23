@@ -2,9 +2,9 @@
 
 An open dataset of hydrogen embrittlement in austenitic stainless steels tested in **hydrogen gas**, with weld metal recorded separately from base metal.
 
-**Version 1.0** · 113 records · 9 sources, 1983–2024 · Data CC BY 4.0 · Code MIT
+113 records · 9 sources, 1983–2024 · Data CC BY 4.0 · Code MIT
 
-## Why this dataset exists
+## Objective
 
 Hydrogen infrastructure is welded. Refuelling stations run at 70 MPa, storage vessels and tube trailers are welded assemblies, and repurposing existing pipe networks depends on how the joints behave rather than the plate.
 
@@ -12,7 +12,7 @@ A weld is a casting sitting inside a wrought product. Its structure is dendritic
 
 Most published embrittlement data covers base metal, and most recent weld studies charge specimens electrochemically, which cannot be converted to an equivalent gas pressure without assumptions about charging efficiency. This dataset keeps only gaseous exposure and records the weld zone for every row.
 
-## Headline results
+## Results
 
 | Zone | n | Median relative reduction of area |
 |---|---|---|
